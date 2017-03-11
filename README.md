@@ -14,4 +14,3 @@ One fortuitous observation we made while reviewing the referee data was, eben th
 We plan to continue more analysis on the betting system using more weather data specialized to exact timing and location and hope to build an online system that generates odds for each match taking into account each teams records as well as the forecasted weather conditions as well as the agressiveness of the referees predicted by historical data. 
 
 Any contribution or insight to the project is highly welcomed. Feel free to fork the repository and provide your feedbacks.
-# Odds-Against-Odds
