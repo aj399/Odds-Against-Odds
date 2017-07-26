@@ -1,5 +1,10 @@
-#Odds Against Odds
+# Odds Against Odds
 
+# Table of Contents
+1. [Overview](README.md#overview)
+2. [Slides](README.md#slides)
+
+# Overview
 Intrigued by the system of betting and the statistics and analysis that goes behind creating a good betting system, we decided to anlaysis the performance of different betting systems that are popular in soccer and review how well they were able to predict the outcome of the match. 
 
 We designed the review system with the inherent assumption that the bet making system would in some ways wants to increase their profit and avoid risk of paying out more than they earn per match. There would also be a luring factor that the betting companies would employ to attract the more customers and we do factor in that, but they dont affect the base concept behind the betting odds. 
@@ -13,4 +18,5 @@ One fortuitous observation we made while reviewing the referee data was, eben th
 
 We plan to continue more analysis on the betting system using more weather data specialized to exact timing and location and hope to build an online system that generates odds for each match taking into account each teams records as well as the forecasted weather conditions as well as the agressiveness of the referees predicted by historical data. 
 
-Any contribution or insight to the project is highly welcomed. Feel free to fork the repository and provide your feedbacks.
+# Slides
+
